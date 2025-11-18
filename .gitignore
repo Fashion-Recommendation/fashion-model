@@ -47,7 +47,3 @@ ehthumbs.db
 # Data (모든 데이터 제외, sample만 포함)
 data/
 !data/sample/
-
-# Models (모델 파일 제외)
-models/
-!models/README.md
